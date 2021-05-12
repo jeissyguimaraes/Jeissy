@@ -1,4 +1,4 @@
-<h2>Hello World 👋</h2>
+<div align="center"><h2>Hello World 👋</h2></div>
 
 <h4> :blonde_woman: Jeissy Guimarães | :woman_technologist: QA Automation Specialist | :small_red_triangle: Minas Gerais, Brazil  </h4>
  
