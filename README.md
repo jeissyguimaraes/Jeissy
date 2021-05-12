@@ -1,6 +1,6 @@
 👋 Olá, sou Jeissy Guimarães
 
-- :woman_technologist:	Especialista em testes automatizados na Base2 Tecnologia
+- :woman_technologist:	Especialista em testes automatizados na  <a href="https://www.base2.com.br/">Base2 Tecnologia</a>    
 - :woman_office_worker: <a href="https://www.linkedin.com/in/jeissy-guimar%C3%A3es-aa0936164/">LinkedIn</a> 
 
 
