@@ -1,6 +1,6 @@
-<div align="center"><h2>Hello World 👋</h2></div>
+<div align="center"><h1>Hello World 👋</h1></div>
 
-<h4> :blonde_woman: Jeissy Guimarães | :woman_technologist: QA Automation Specialist | :small_red_triangle: Minas Gerais, Brazil  </h4>
+<div align="center"><h4> :blonde_woman: Jeissy Guimarães | :woman_technologist: QA Automation Specialist | :small_red_triangle: Minas Gerais, Brazil  </h4></div>
  
 
 <h5>About me</h5>
