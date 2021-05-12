@@ -7,7 +7,7 @@ About me
 
 - :woman_office_worker: find me here <a href="https://www.linkedin.com/in/jeissy-guimar%C3%A3es-aa0936164/">LinkedIn</a> 
 - :seedling: Learning <code>test rest-assured </code><code>Amazon Web Services</code>
-- :dog::earth_americas:	i love pets and travel
+- :dog::earth_americas:	I love pets and travel
 
 
 
