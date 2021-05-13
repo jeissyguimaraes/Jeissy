@@ -5,7 +5,7 @@
 
 <h4>About me</h4>
 
-- :woman_office_worker: find me here <a href="https://www.linkedin.com/in/jeissy-guimar%C3%A3es-aa0936164/">LinkedIn</a> 
+- :woman_office_worker: Find me here <a href="https://www.linkedin.com/in/jeissy-guimar%C3%A3es-aa0936164/">LinkedIn</a> 
 - :seedling: Learning <code>test rest-assured </code><code>Amazon Web Services</code>
 - :dog::earth_americas:	I love pets and travel
 
